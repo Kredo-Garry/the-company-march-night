@@ -1,5 +1,5 @@
 <?php
-
+    // This is an example changes I made in User.php
     require_once 'Database.php';
     session_start();
 
