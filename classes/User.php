@@ -1,5 +1,6 @@
 <?php
     // This is an example changes I made in User.php
+    # This is a sample changes again
     require_once 'Database.php';
     session_start();
 
